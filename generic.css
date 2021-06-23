@@ -1,0 +1,55 @@
+body,html
+{
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    width: 100%;
+    
+}
+
+.a-right
+{
+    margin-left: 650px;
+}
+nav
+{
+    padding: 13PX 0PX 13PX 0PX;
+}
+
+
+nav a 
+{
+    color:rgb(187, 23, 23);
+    text-decoration: none;
+    font-size: 21px;
+    margin-left: 20px;
+    color: black;
+    transition: all;
+    outline: palegoldenrod;
+    
+}
+nav a:hover
+{
+    background-color:orangered;
+    padding: 7px ;
+    border-radius: 25px;
+}
+.generic
+{
+ text-align: center;
+
+}
+.generic img
+{
+    height: 425px;
+    width: 1264px;
+   margin-top: -30px;
+}
+.para p
+{   
+   
+    margin-top: 15px;
+    text-align: start;
+    margin-left: 15px;
+}
+

@@ -1,0 +1,308 @@
+body,html
+{
+    padding: 0px;
+    margin: 0px;
+}
+.banner
+
+{
+    height: 400px;
+  
+
+   background-image: radial-gradient(rgba(42, 218, 95, 0.5),rgba(110, 107, 107, 0.5)),url("https://cdn.pixabay.com/photo/2017/06/27/14/20/waterfalls-2447450__480.jpg");
+}
+
+.a-right
+{
+    margin-left: 650px;
+}
+nav
+{
+    padding: 13PX 0PX 13PX 0PX;
+}
+
+
+nav a 
+{
+    color:rgb(187, 23, 23);
+    text-decoration: none;
+    font-size: 21px;
+    margin-left: 20px;
+    color: whitesmoke;
+    transition: all;
+    outline: palegoldenrod;
+    
+}
+nav a:hover
+{
+    background-color:orange;
+    padding: 7px ;
+    border-radius: 25px;
+} 
+/* LORVENT CLASS */
+.my-content
+{
+    color:rgb(126, 14, 14);
+    position: relative;
+    top: 70px;
+    left: 0px;
+    text-align: center;
+    margin-left: 0px;
+}
+.my-content h1
+{
+    color: white;
+    font-size: 40px;
+    
+}
+.my-content p
+{
+    color: rgb(34, 32, 32);
+    font-size: 15px;
+    top: 100px
+}
+.my-content button
+{
+    position: relative;
+    
+    border:1px solid orange;
+    
+    padding: 10px 15px 10px 15px;
+
+    color:white;
+    background-color:red;
+    
+}
+/* section LORVENT CLASS close */
+
+/* MAECENAS class opens */
+
+.MAECENAS
+{
+   margin-bottom: 20px;
+   margin-left: 200px;
+   margin-top: 70px;
+}
+.MAECENAS div
+{
+
+    width: 480px;
+    display: inline-block;
+}
+.MAECENAS h1
+{
+    margin-top: 8px;
+    font-size: 30PX;
+    
+}
+.MAECENAS p
+{
+    font-size: 12px;
+
+}
+.mae1 p
+{
+font-size: 16px;
+}
+
+/* MAECENAS class closes */
+
+/* FUSCE opens  */
+
+.FUSCE
+{
+    position: relative;
+    top: 150px;
+    height: 725PX;
+    text-align: center;
+    background-color: rgb(146, 146, 146);
+}
+.FUSCE h1
+{
+    color: rgb(7, 5, 5);
+    position: relative;
+    top: 40px;
+    font-size: 25px;
+}
+.FUSCE p
+{
+font-size: 20px;
+color: rgb(94, 93, 93);
+}
+
+.vijay1
+{
+    position: relative;
+    width: 480px;
+    margin-left: 200px;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+}
+
+.vijay2
+{
+    position: relative;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: -399PX;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    
+}
+.button1
+{
+ position: relative;
+ margin-left: 150px;
+ color: white;
+ background-color: red;
+ padding: 10px 15px 10px 15px;
+ 
+}
+.button2
+{
+    position: relative;
+      color:white;
+      margin-left: -188px;
+      background-color: black;
+      padding: 10px 15px 10px 15px;
+}
+
+.mauris
+{
+    position: relative;
+    top: 200px;
+    text-align: center;
+    background-color:white;
+}
+/* lorem opens */
+.lorem
+{
+    
+    margin-right: 700px;
+    margin-top: 70px;
+}
+.mauris img
+{
+    margin-left: 500px;
+    top: -143px;
+    height: 90px;
+    width: 90px;
+    position: relative;
+    border-radius: 44px 51px 44px 51px;
+}
+.LAU
+{
+    margin-left: 650PX;
+    top: -250PX;
+    position: relative;
+}
+.LAU img
+{
+    margin-left: -600px;
+    top: -159px;
+    height: 90px;
+    width: 90px;
+    position: relative;
+    border-radius: 44px 51px 44px 51px
+}
+.raju1
+{
+    margin-left: 650PX;
+    top: -350PX;
+    position: relative;
+}
+.raju1 img
+{
+    margin-left: -600px;
+    top: -135px;
+    height: 90px;
+    width: 90px;
+    position: relative;
+    border-radius: 44px 51px 44px 51px
+}
+
+.raju2
+{
+    
+    margin-right: 700px;
+    margin-top: -610px;
+}
+.raju2 img
+{
+    margin-left: 500px;
+    top: -143px;
+    height: 90px;
+    width: 90px;
+    position: relative;
+    border-radius: 44px 51px 44px 51px;
+}
+/* <!-- .loremcloses --> */
+
+/* final back opens */
+
+
+.bgi
+{
+    height: 550px;
+    background-image: radial-gradient(rgba(112, 110, 110, 0.5),rgba(110, 107, 107, 0.5)),url("https://cdn.pixabay.com/photo/2017/06/27/14/20/waterfalls-2447450__480.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bgi_head
+{
+    color:rgb(126, 14, 14);
+    position: relative;
+    top: 290px;
+    left: 0px;
+    text-align: center;
+    margin-left: 0px;
+    color: white;
+    height: 220px;
+
+}
+.bgi_head button
+{
+    
+    position: relative;
+    
+    border:1px solid orange;
+    
+    padding: 5px 8px 5px 8px;
+    
+    color:white;
+    background-color:red;
+}
+.bgi_head p
+{
+color: rgb(230, 211, 211);
+}
+/* final back closes*/
+
+/* last page */
+.social
+{
+    background-color: #e9dfdfe5;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+    /* padding-bottom: 10px; */
+    border-top: 1px solid #eee;
+    margin-top:0px;
+    margin-left: -30px;
+    
+   
+}
+.social a
+{
+    font-size: 30px;
+    width: 70px;
+    height: 45px;
+    /* line-height: 40px; */
+    margin: 33px;
+    /* background-color: white; */
+    color: black;
+}

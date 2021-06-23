@@ -1,0 +1,369 @@
+.ele nav a
+{
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+    margin-left: 20px;
+    outline: none;
+    transition: all ;  
+}
+.ele nav a:hover
+{
+   background-color:rgb(206, 162, 41);
+    padding: 7px;
+    border-radius: 25px;
+
+}
+
+.ele nav
+{
+    padding: 13px 0px 13px 0px;    
+}
+.ele-a-right
+{
+   margin-left: 650px;
+}
+.ele h1
+{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+.ele p
+{
+    position: relative;
+    text-align: center;
+    top: 30px;
+}
+ /* mycontent starts */
+ 
+ .mycontent
+ {
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+  /* mycontent ends */
+/* preformated sec starts */
+.presec h3
+{
+    
+    margin-left: 20px;
+    margin-bottom: 7px;
+    
+}
+.presec p
+{
+    height: 170px;
+    background-color: rgb(159, 157, 163);
+    margin-right: 20px;
+}
+.presec p 
+{
+margin-left: 20px;
+}
+/* preformated sec ended */
+/* list sec stared */
+.unorder
+{
+    margin-left: 20px;
+}
+.order
+{   
+    margin: -116px;
+    margin-left: 700px;
+   
+}
+.alternate 
+{  
+    margin-top: 100px;
+    margin-left: 9px;
+}
+.icon
+{   
+    margin: -142px;
+    margin-left: 730px;
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    height: 100px;
+   
+}
+.icon a
+{
+    font-size: 30px;
+    color: red;
+    margin: 10px;
+}   
+/* list sec ended */
+/* action started */
+
+.action
+{
+    margin-top: 180px;
+    margin-left: 30px;
+}
+.def
+{
+ margin-left: 10px;
+}
+.alt
+{
+    margin-left: 10px;   
+}
+.ss
+{
+    margin-top: 10px;
+}
+.ss2
+{
+    margin-left: 10px;
+}
+.ss3
+{
+margin-left: 10px;
+}
+.vvv
+{
+    margin-top: 10px;
+}
+.v2
+{
+    margin-top: 10px;
+}
+.v3
+{
+    margin-top: 10px;
+}
+.s
+{   
+    margin-top: -80px;
+    margin-left: 213px;
+}
+.s2
+{
+    margin-top: 10px;
+}
+.s3
+{
+    margin-top: 10px;
+}
+.f 
+{  
+    margin-top: -200px;
+    margin-left: 800px;
+}
+.f1
+{
+    padding: 10px 75px 10px 75px;
+}
+.f2
+{
+    padding: 10px 75px 10px 75px;
+    margin-top: 13px;  
+}
+.f3
+{
+    padding: 10px 75px 10px 75px;
+    margin-top: 13px;   
+}
+
+
+.sm 
+{   margin-top: -160px;
+    margin-left: 900px;
+    padding: 7px 75px 7px 75px;
+    
+}
+.sm1 
+{
+    padding: 7px 75px 7px 75px;
+    margin-top: 10px;
+}
+.sm2
+{
+    padding: 7px 75px 7px 75px;
+    margin-top: 10px;
+}
+.sm3
+{
+    padding: 7px 75px 7px 75px;
+    margin-top: 10px;
+}
+/* action started */
+ /* table sec started */
+ .tab
+{
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.my-tab 
+{
+    height: 200px;
+    width: 1350px;
+}
+
+/* table ends */
+
+/* table1 start */
+.tab2
+{
+    margin-left: 20px;
+}
+.my-sec-table
+{
+    height:200px;
+    width: 1350px;
+}
+ /* table sec ended */
+
+ /*  my button started*/
+.my-button
+{
+    margin-left: 20px;
+}
+.btn1-1 
+{
+    padding: 5px 55px 5px 55px;   
+}
+.btn1-2
+{
+margin-left: 10px;
+padding: 6px 55px 6px 55px; 
+}
+.btn1-3
+{
+    margin-left: 10px;   
+    padding: 6px 55px 6px 55px; 
+}
+.my-btn2
+{
+    margin-top: 10px;
+}
+.btn2-1
+{
+    padding: 10px 65px 10px 65px; 
+}
+.btn2-2 
+{
+    margin-left: 10px; 
+    padding:6px 55px 6px 55px; 
+
+}
+.btn2-3
+{
+    margin-left: 10px; 
+    padding: 6px 30px 6px 30px;     
+}
+
+.my-btn3
+{
+    margin-top: 10px; 
+}
+.btn3-1 
+{
+    padding: 10px 150px 10px 150px;   
+}
+
+.btn3-2
+{
+    margin-left: 30px;  
+    padding:  10px 150px 10px 150px;   
+}
+.btn3-3 
+{
+    margin-left: 30px;  
+    padding: 6px 140px 6px 140px;     
+}
+.btn3-4 
+{
+    margin-left: 10px;    
+    padding: 6px 100px 6px 100px;   
+}
+.my-btn4
+{
+    margin-top: 10px;  
+}
+.btn4-1
+{
+    background-color: gray;
+    padding: 7px 75px 7px 75px;
+}
+.btn4-2
+{
+    background-color: gray;
+    margin-left: 10px;
+    padding: 7px 75px 7px 75px;
+    
+}
+.btn4-3 
+{
+    background-color: gray;
+    margin-left: 10px;
+    padding: 7px 75px 7px 75px;
+}
+/*  my button ended */
+.my-form
+{
+    margin-left: 20px;
+}
+.select
+{  
+    padding: 3px 600px 3px 600px ;
+}
+.r2
+{
+    margin-left:250px ;
+}
+.r3
+{
+    margin-left:250px ;
+}
+.c1
+{
+    margin-left:270px ;
+}
+ /* IMAGE PART START */
+ .my-image 
+ {
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ .my-image img
+ {
+     
+     height: 400px;
+     width: 100%;
+ }
+ .my-img
+ {
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ /* left & right started */
+ .lf
+ {
+     margin-left: 20px;
+     margin-right: 20px;   
+ }
+ .lf img
+ {
+    border-radius: 5px;
+ }
+ .parabola p
+ {
+     margin-left: 170px;
+     margin-top: -150px ;   
+ }
+ .hyperbola p
+ {
+    margin-right: 170px;
+    margin-bottom: 250px ;
+
+ }
+ .imgleft
+ {
+     margin-left: 1050px;
+     margin-top: -400px ;
+     border-radius: 5px;
+     
+ }
+ /* left & right started */
+
